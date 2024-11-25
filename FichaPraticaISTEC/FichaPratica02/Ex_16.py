@@ -15,7 +15,7 @@ if(valor%5==0):
     print("Notas de 50€:", notas)
 
     valor = valor % 50
-    
+
     notas = valor // 20
     print("Notas de 20€:", notas)
 
