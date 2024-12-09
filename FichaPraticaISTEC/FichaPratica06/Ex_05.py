@@ -1,8 +1,7 @@
 lista_compras = {}
-
 opcao = 0
 
-while True:
+while opcao!=4:
     print("\nMenu:")
     print("1. Adicionar produto")
     print("2. Calcular preço total")
@@ -34,7 +33,6 @@ while True:
 
     elif opcao == "4":
         print("Encerrando o programa. Até logo!")
-
 
     else:
         print("Opção inválida. Tente novamente.")
