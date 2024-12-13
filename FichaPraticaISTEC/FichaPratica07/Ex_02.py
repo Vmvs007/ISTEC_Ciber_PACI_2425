@@ -6,6 +6,7 @@ taxasCambio = {"USD": 1.0,
                "GBP": 0.78
                }
 
+
 usernameCorreto = "admin"
 passwordCorreta = "123456"
 opcaoLogin = -1
