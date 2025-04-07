@@ -35,6 +35,7 @@ while (opcao != 0):
 
 
     elif (opcao == 3):
+
         print("\n********** Total Vendas **********")
 
         totalVendas = 0
