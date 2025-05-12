@@ -101,7 +101,7 @@ def guardar_dados(caminho, dados):
 
 
 if __name__ == "__main__":
-    caminhoFicheiro = "C:/Users/vmvs0/Desktop/ISTEC/PAC I/ISTEC_Ciber_PACI_2425/FichaPraticaISTEC/Ficheiros/funcionarios.json"
+    caminhoFicheiro = "../Ficheiros/funcionarios.json"
     dados = carregar_dados(caminhoFicheiro)
 
     menu(dados)
