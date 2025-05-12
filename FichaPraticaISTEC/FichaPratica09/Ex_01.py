@@ -78,7 +78,7 @@ def menu(dados):
 
             case 0:  # Sair
                 guardar_dados(
-                    "C:/Users/vmvs0/Desktop/ISTEC/PAC I/ISTEC_Ciber_PACI_2425/FichaPraticaISTEC/Ficheiros/funcionarios.json",
+                    "../Ficheiros/funcionarios.json",
                     dados)
 
                 print("Sair do Programa...")
