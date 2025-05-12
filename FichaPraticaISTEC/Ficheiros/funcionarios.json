@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "Vitor",
+        "idade": 25,
+        "cargo": "Developer",
+        "salario": 2200.0
+    },
+    {
+        "nome": "Joaquim",
+        "idade": 40,
+        "cargo": "CEO",
+        "salario": 5500.0
+    },
+    {
+        "nome": "Roberto",
+        "idade": 25,
+        "cargo": "Developer",
+        "salario": 1650.0000000000002
+    },
+    {
+        "nome": "Leandro",
+        "idade": 10,
+        "cargo": "Limpezas",
+        "salario": 1100.0
+    }
+]
